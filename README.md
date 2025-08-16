@@ -29,4 +29,10 @@ The dataset used is:
 **Columns:**
 - `Samples` → Millet samples  
 - `Fat` → Target variable (percentage of fat)  
-- `Band_1 ... Band_169` → Hyperspectral reflectance values  
+- `Band_1 ... Band_169` → Hyperspectral reflectance values
+
+## Results
+
+Below is the **regression performance comparison graph** of different models:
+
+![Regression Performance](performance_graph.png)
