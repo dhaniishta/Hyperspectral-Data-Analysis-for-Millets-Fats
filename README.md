@@ -30,6 +30,3 @@ The dataset used is:
 - `Samples` → Millet samples  
 - `Fat` → Target variable (percentage of fat)  
 - `Band_1 ... Band_169` → Hyperspectral reflectance values  
-
-git clone https://github.com/your-username/millet-hyperspectral-fat-prediction.git
-cd millet-hyperspectral-fat-prediction
